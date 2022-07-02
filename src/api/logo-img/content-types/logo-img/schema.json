@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "logo_imgs",
+  "info": {
+    "singularName": "logo-img",
+    "pluralName": "logo-imgs",
+    "displayName": "logoImg"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
